@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=samuelsiahaan16.samuelsiahaan16" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=samuelsiahaan16.samuelsiahaan16" alt="visitor badge"/>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Samuel+Siahaan!;" />
@@ -6,17 +6,20 @@
 
 <br/>
 
-<h3 align="center">A passionate Software Developer from Medan</h3>
+<h3 align="center">I'm **Full Stack Developer** </h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I am currently a **D3 Information Technology** student
+ 🔭 I am currently a final year student of **D3 Information Technology**.  
  
  🌱 I'm currently learning **GO, Django**
  
- ⚡ Challenges are gifts that force us to seek a new center of gravity. **Don't fight them. Just find a way to stand up** ⚡
+ ⚡ 
+ Challenges are gifts that force us to seek a new center of gravity. 
+ **Don't fight them. Just find a way to stand up** 
+ ⚡
 
  </div>
 
@@ -38,7 +41,8 @@
  <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode,github,figma,boostrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode,github,figma,bootstrap" />
+    <br/>
     <img src="https://skillicons.dev/icons?i=php,python,c,mysql,git,java,laravel,postman" /><br>
 </div>
 
