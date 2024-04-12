@@ -61,5 +61,5 @@
 <br/>
 
 <div align="center">
-<a href='https://saweria.co/samuelsiahaan' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPqTe35ip0ChIr7DhQ4Cg2CpWPmGaAvh75Vi2C5GkE1Q&s' border='0' alt='Give Me Saweria Please.. :)' /></a>
+<a href='https://saweria.co/samuelsiahaan' target='_blank'><img src='https://upload.wikimedia.org/wikipedia/commons/a/a5/Saweria_logo.png' border='0' alt='Give Me Saweria Please.. :)' /></a>
 </div>
