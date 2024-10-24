@@ -12,7 +12,7 @@
 
 <div align="center">
  
- 🔭 I am currently a final year student of **D3 Information Technology**.  
+ 🔭 I am a D3 Information Technology graduate from **Del Institute of Technology**.  
  
  🌱 I'm currently learning **GO, Django**
  
@@ -59,7 +59,4 @@
 <hr/>
 
 <br/>
-
-<div align="center">
-<a href='https://saweria.co/samuelsiahaan' target='_blank'><img src='https://upload.wikimedia.org/wikipedia/commons/a/a5/Saweria_logo.png' border='0' alt='Give Me Saweria Please.. :)' /></a>
-</div>
+ 
